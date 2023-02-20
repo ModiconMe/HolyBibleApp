@@ -1,4 +1,4 @@
-package io.modicon.app;
+package io.modicon.holybibleapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
